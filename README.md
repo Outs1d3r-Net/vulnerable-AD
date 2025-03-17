@@ -40,3 +40,7 @@ Invoke-VulnAD -UsersLimit 100 -DomainName "cs.org"
 ### TODO
 - Play with workstations !
 - Click close issue button on github
+
+### Guide  
+> https://medium.com/@yury.xisto/vulnerable-active-directory-ec39e45881e0
+
